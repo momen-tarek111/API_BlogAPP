@@ -4,7 +4,7 @@
   "description": "backend of blog application",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "node app.js"
   },
   "author": "Momen Tarek",
   "license": "ISC",
