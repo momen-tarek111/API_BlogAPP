@@ -25,7 +25,7 @@ app.use(rateLimit({
 
 // Cors Policy
 app.use(cors({
-    origin: "https://blog-app-five-gold.vercel.app/",
+    origin: "https://blog-app-five-gold.vercel.app",
 }))
 //Routes
 
